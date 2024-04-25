@@ -1,0 +1,1 @@
+Welcome to the Projects repository! Here, you’ll find a collection of PowerPoint (PPT) and Word (DOCX) documents that I’ve worked on. These documents cover various topics, from presentations to reports. Feel free to explore them.
